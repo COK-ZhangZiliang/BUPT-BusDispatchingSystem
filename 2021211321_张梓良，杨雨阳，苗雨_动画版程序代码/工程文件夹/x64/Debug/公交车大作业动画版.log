@@ -1,0 +1,31 @@
+﻿  Control.cpp
+C:\Users\LENOVO\Desktop\工程文件夹\Control.cpp(11,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+C:\Users\LENOVO\Desktop\工程文件夹\Control.cpp(317,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Done.cpp
+C:\Users\LENOVO\Desktop\工程文件夹\Done.cpp(11,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+C:\Users\LENOVO\Desktop\工程文件夹\Done.cpp(111,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Draw_picture.cpp
+C:\Users\LENOVO\Desktop\工程文件夹\Draw_picture.cpp(11,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+C:\Users\LENOVO\Desktop\工程文件夹\Draw_picture.cpp(174,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\LENOVO\Desktop\工程文件夹\Draw_picture.cpp(174,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\LENOVO\Desktop\工程文件夹\Draw_picture.cpp(175,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\LENOVO\Desktop\工程文件夹\Draw_picture.cpp(175,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\LENOVO\Desktop\工程文件夹\Draw_picture.cpp(183,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\LENOVO\Desktop\工程文件夹\Draw_picture.cpp(183,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\LENOVO\Desktop\工程文件夹\Draw_picture.cpp(191,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\LENOVO\Desktop\工程文件夹\Draw_picture.cpp(192,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\LENOVO\Desktop\工程文件夹\Draw_picture.cpp(142,13): warning C4101: “msg”: 未引用的局部变量
+  Input.cpp
+C:\Users\LENOVO\Desktop\工程文件夹\Input.cpp(11,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+C:\Users\LENOVO\Desktop\工程文件夹\Input.cpp(228,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+C:\Users\LENOVO\Desktop\工程文件夹\main.cpp(13,1): warning C4005: “max”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(193): message : 参见“max”的前一个定义
+  正在生成代码...
+C:\Users\LENOVO\Desktop\工程文件夹\Done.cpp(276): warning C4715: “isFINISH”: 不是所有的控件路径都返回值
+C:\Users\LENOVO\Desktop\工程文件夹\Control.cpp(57): warning C4715: “isFINISH1”: 不是所有的控件路径都返回值
+  公交车大作业动画版.vcxproj -> C:\Users\LENOVO\Desktop\工程文件夹\x64\Debug\公交车大作业动画版.exe
